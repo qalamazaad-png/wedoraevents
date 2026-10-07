@@ -1,0 +1,5 @@
+{
+  "enabled": false,
+  "note": "Set enabled to true and list GLB files to load authored models. See assets/3d/README.md.",
+  "models": {}
+}
