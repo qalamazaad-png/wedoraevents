@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /data/
+Disallow: /includes/
+Sitemap: https://www.weddingflowerdecoration.com/sitemap.xml
